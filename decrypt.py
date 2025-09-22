@@ -56,7 +56,7 @@ class GhostGUI(tk.Tk):
 
     def create_widgets(self):
         # Header
-        tk.Label(self, text="GHOST ENCRYPT / DECRYPT (XOR DEMO)",
+        tk.Label(self, text="===[GHOST ENCRYPT / DECRYPT]=== coded by: sacred G",
                  bg="#0b0b0b", fg=self.fg_green,
                  font=("Consolas", 13, "bold")).pack(pady=10)
 
