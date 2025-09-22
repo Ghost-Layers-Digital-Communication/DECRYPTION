@@ -41,7 +41,7 @@ def decrypt_file(input_path: str, key: str):
 class GhostGUI(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Ghost Encrypt/Decrypt (XOR Demo)")
+        self.title("===[Ghost Layers Encrypt/Decrypt]===")
         self.configure(bg="#0b0b0b")  # black background
         self.geometry("520x240")
         self.resizable(False, False)
