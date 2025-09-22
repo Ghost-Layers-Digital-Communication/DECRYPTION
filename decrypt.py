@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Ghost Encrypt/Decrypt GUI (XOR demo)
+===[Ghost Layers Encrypt/Decrypt GUI]=== coded by: sacred G
 Cross-platform | Python ≥3.8 including 3.13
 Black & Green theme
 """
